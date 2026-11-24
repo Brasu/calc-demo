@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'calc-frontend/**'
-      - '.github/workflows/frontend-ci.yml'
+      - '.github/workflows/frontend-ci.yml' 
   pull_request:
     paths:
       - 'calc-frontend/**'
